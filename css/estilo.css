@@ -21,7 +21,7 @@ p {
   margin-bottom: 50px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-width: 100%;
+  margin: 100px;
   font-size: 55px;
   font-style: italic;
   font-family: tahoma; }

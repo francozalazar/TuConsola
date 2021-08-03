@@ -1,0 +1,3 @@
+En el archivo index.html sumé el SEO con las siguientes características:
+Descripción: con meta name description agregue una descripcion de mi pagina, donde explica que es una pagina de venta de juegos-
+para la etiqueta meta name keywords utilice algunas palabras claves como: "juegos fifa warzone gamer diversion jovenes regalo comprar argentina"

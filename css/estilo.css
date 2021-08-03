@@ -1,0 +1,34 @@
+h1 {
+  font-size: 55px; }
+  @media only screen and (max-width: 767px) {
+    h1 {
+      font-size: 40px; } }
+
+p {
+  color: black; }
+
+h1 {
+  font-size: 55px; }
+  @media only screen and (max-width: 767px) {
+    h1 {
+      font-size: 40px; } }
+
+p {
+  color: black; }
+
+.container-fluid {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-width: 100%;
+  font-size: 55px;
+  font-style: italic;
+  font-family: tahoma; }
+  .container-fluid .row {
+    width: 100%; }
+  .container-fluid .row {
+    padding: 50px;
+    transition: 1s; }
+    .container-fluid .row:hover {
+      background-color: #cff0c5; }

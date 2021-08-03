@@ -1,0 +1,31 @@
+@import "tamanios";
+@import "colores";
+$padding:50px;
+$margin:50px;
+
+.container-fluid {
+	margin: {
+		top:$margin;
+		bottom:$margin;
+		left:$margin;
+		right:$margin;
+		width:50%*2;
+	}
+	.row {
+		width:(25% + 25%) *2;
+	};
+
+	font: {
+	size:$h1Desktop;
+	style:italic;
+	family:tahoma;
+	}
+	.row {
+	padding:$padding;
+	transition:1s;
+	&:hover{
+		background-color:#cff0c5;
+	}
+	}
+
+}
